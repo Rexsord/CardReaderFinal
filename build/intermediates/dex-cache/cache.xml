@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.3.0_67df5f0dc36dfdb3bbc208a4cee02e6e222ac843.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bdbe3fac3e1391ca36e8a8506008f806e5060fae">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\instant-run_365995ba68abc4535d4c51470d750c5c74db1be9.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_02caf72cd10d32500ad02df81a15bfa79f265690.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="982def68a8d0ff8f1d9a722d9d719d3f3fce9944">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_34eb30891377ce40127981c6ed4cc60b182412ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_f27d53585e7ee1bf32e605943a82fc9da8d4b9d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_d4e241207e346a85783b25a92483717ec2429dd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_f2192cd85313ad5eeceee0ef88765fe261efbbd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\DarvisdeJs\Desktop\proyecto\Recursos\CardReaderFinal\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_616c312e0e231b993b604674c9edc4fd27c90a8a.jar" />
+    </item>
+
+</items>

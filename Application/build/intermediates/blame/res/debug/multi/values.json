@@ -1,0 +1,762 @@
+[
+    {
+        "outputFile": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endColumn": 58,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1415,
+                    "endColumn": 56,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 53,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 69,
+                    "endOffset": 1591
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1596,
+                    "endColumn": 42,
+                    "endOffset": 1634
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1639,
+                    "endColumn": 43,
+                    "endOffset": 1678
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1683,
+                    "endColumn": 44,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1728,
+                    "endColumn": 42,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endColumn": 41,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 67,
+                    "endOffset": 1876
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endColumn": 66,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 66,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 57,
+                    "endOffset": 2001
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 57,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2006,
+                    "endColumn": 47,
+                    "endOffset": 2049
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 47,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2054,
+                    "endColumn": 58,
+                    "endOffset": 2108
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 58,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2113,
+                    "endColumn": 218,
+                    "endOffset": 2327
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 218,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2332,
+                    "endColumn": 144,
+                    "endOffset": 2472
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 144,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2477,
+                    "endColumn": 111,
+                    "endOffset": 2584
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 111,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2589,
+                    "endColumn": 82,
+                    "endOffset": 2667
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 82,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2672,
+                    "endColumn": 103,
+                    "endOffset": 2771
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2776,
+                    "endColumn": 103,
+                    "endOffset": 2875
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 103,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2880,
+                    "endColumn": 119,
+                    "endOffset": 2995
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 119,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3000,
+                    "endColumn": 100,
+                    "endOffset": 3096
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 100,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3101,
+                    "endLine": 43,
+                    "endColumn": 13,
+                    "endOffset": 3662
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endLine": 32,
+                        "endColumn": 13,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3667,
+                    "endColumn": 52,
+                    "endOffset": 3715
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 52,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3720,
+                    "endColumn": 52,
+                    "endOffset": 3768
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 52,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3773,
+                    "endColumn": 50,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3824,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4233
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4238,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4297
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4302,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4551
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4556,
+                    "endColumn": 59,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 52,
+                    "endOffset": 4664
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4669,
+                    "endColumn": 26,
+                    "endOffset": 4691
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4696,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 5165
+                },
+                "from": {
+                    "file": "C:\\Users\\DarvisdeJs\\Desktop\\proyecto\\Recursos\\CardReaderFinal\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]
